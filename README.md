@@ -25,6 +25,9 @@ Transform your customer service with an AI-powered WhatsApp agent that works 24/
 
 ---
 
+💼 Portfolio Description
+This WhatsApp AI Customer Support Agent showcases my expertise in building intelligent automation workflows using n8n and AI APIs. The project demonstrates my ability to integrate multiple platforms, implement AI-powered decision making, and create scalable business solutions. Perfect for clients looking to automate their customer support operations.
+
 ## 📋 Workflow Overview
 
 This n8n workflow connects WhatsApp Business API with OpenAI's GPT-4 to create an intelligent customer support agent. When a customer sends a message to your WhatsApp Business number, the workflow:
@@ -77,3 +80,33 @@ WHATSAPP_PHONE_NUMBER_ID=your_phone_number_id
 OPENAI_API_KEY=your_openai_api_key
 OPENAI_MODEL=gpt-4
 SYSTEM_PROMPT=You are a helpful customer support agent...
+
+🏷️ GitHub Topics
+text
+n8n, automation, ai-agent, whatsapp, openai, gpt-4, customer-support, chatbot, workflow, integration, webhook, business-automation, nocode, lowcode, conversational-ai, llm, api, developer-tools, productivity, customer-service
+🔗 Repository Structure
+text
+whatsapp-ai-customer-support-agent/
+│
+├── workflow.json
+├── screenshot.png
+├── README.md
+├── LICENSE
+└── .gitignore
+🌟 Why This Workflow?
+This workflow represents my ability to:
+
+Create production-ready automation systems
+
+Integrate cutting-edge AI into business processes
+
+Build scalable solutions for high-volume usage
+
+Deliver real business value with technology
+
+Design maintainable and well-documented workflows
+
+🤝 Connect With Me
+Interested in similar automation solutions? Let's connect and discuss how I can help your business streamline operations with AI-powered automation.
+
+
